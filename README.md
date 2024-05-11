@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jrunchang
-- 👀 I’m interested in deep learning, date mining，bioinformatics&GNN.
-- 🌱 I’m currently learning mental binding site in proteins.
+- 👀 I’m interested in deep learning, date mining，bioinformatics & Graph neural network.
+- 🌱 My research interests is predicting disease-related protein mental binding site. 
 - 💞️ I’m looking to collaborate with u.
 - 📫 How to reach me jiarunchang@nwafu.edu.cn
 
